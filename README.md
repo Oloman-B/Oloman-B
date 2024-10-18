@@ -1,3 +1,5 @@
+<a name="inicio"></a>
+
 [![Bienvenid@ a mi espacio](https://github.com/user-attachments/assets/860669c2-47f5-422f-805a-204c66ccf359)](https://github.com/Oloman-B "Bienvenid@ a mi espacio")
 
 ```
@@ -74,6 +76,12 @@
 `MySQL` `PostgreSQL` `Firebase` `Cassandra` `ERD`  
 `pgModeler` `MongoDB` `dbdiagram.io` 
 
+<div align="right">
+  
+   [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio)
+
+</div>
+
 ---
 
 <a name="item4"></a>
@@ -98,6 +106,11 @@
 ~~Análisis de datos~~   
 ▓▒░ Bases de datos  
 
+<div align="right">
+  
+   [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio)
+
+</div>
 
 --- 
 
@@ -125,6 +138,11 @@
 [Más info](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")
 
 ![Escanéame](https://github.com/user-attachments/assets/088a55d9-5d38-4d20-b5d6-496188c749ab "Escanéame")
+
+</div>
+<div align="right">
+
+  [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio)
 
 </div>
 
