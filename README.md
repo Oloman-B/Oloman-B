@@ -1,18 +1,15 @@
 [![Bienvenid@ a mi espacio](https://github.com/user-attachments/assets/860669c2-47f5-422f-805a-204c66ccf359)](https://github.com/Oloman-B "Bienvenid@ a mi espacio")
-
 <div align="center">
 
-> ---
->> _Enseñar es mi pasión, programar mi pasatiempo_    
->> _y ser Experto de Google, un hobby._
->>> ---
->>>> ---
-[![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
+> _Enseñar es mi pasión, programar mi pasatiempo y ser Experto de Google, un hobby._
+>   
+> [![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
 [13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
-
---- 
+>>---
 
 </div>
+<br/>
+<br/>
 
 |Nivel y Entidad educativa|
 |---|
