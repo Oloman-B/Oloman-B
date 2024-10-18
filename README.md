@@ -10,15 +10,7 @@
 </blockquote>  	
 ```
 
-<br/>
-<div align="center">
-
-[![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
-[13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
-
-</div>
-
-|Índice de contenidos|
+|¿Vamos al grano?|
 |---|
 1. [Nivel y entidad educativa](#item1 "Qué y dónde estudio")
 2. [Asignaturas matriculadas](#item2 "Lo que me he propuesto aprender este año")
@@ -76,10 +68,9 @@
 - Bases de datos  
 `MySQL` `PostgreSQL` `Firebase` `Cassandra` `ERD`  
 `pgModeler` `MongoDB` `dbdiagram.io` 
-
 <div align="right">
-  
-   [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+
+  [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
 
 </div>
 
@@ -139,9 +130,12 @@
 </div>
 
 ## Manolo Sánchez (Oloman) 
-  
+
 [![linkedin](https://github.com/user-attachments/assets/2255f0b8-37e4-4b70-a95a-b9d416a32c97)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
 [Más info](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")
+
+[![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
+[13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
 
 ![Escanéame](https://github.com/user-attachments/assets/088a55d9-5d38-4d20-b5d6-496188c749ab "Escanéame")
 
