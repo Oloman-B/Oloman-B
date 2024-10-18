@@ -18,21 +18,22 @@
 
 </div>
 
-#### Índice de contenidos
-1. [Nivel y entidad educativa](#item1)
-2. [Asignaturas matriculadas](#item2)
-3. [Stack tecnológico del curso](#item3)
-4. [Stack tecnológico conocido](#item4)
-5. [Preferencias tecnológicas](#item5)
-6. [Reconocimientos y premios](#item6)
-7. [Enlaces](#item7)
+|Índice de contenidos|
+|---|
+1. [Nivel y entidad educativa](#item1 "Qué y dónde estudio")
+2. [Asignaturas matriculadas](#item2 "Lo que me he propuesto aprender este año")
+3. [Stack tecnológico del curso](#item3 "Los palabros que vamos a ver")
+4. [Stack tecnológico conocido](#item4 "Algunas cosas que ya me suenan")
+5. [Preferencias tecnológicas](#item5 "Lo que me gustaría")
+- [Reconocimientos y premios](#item6 "Distintiones que molan")
+- [Enlaces](#item7 "Miscelánea")
  
 ---
 
 <br/>
 <a name="item1"></a>
 
-|Nivel y Entidad educativa|
+|1. Nivel y Entidad educativa|
 |---|
 
 ### [FPGS: Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
@@ -42,7 +43,7 @@
 <br/>
 <a name="item2"></a>
 
-|Asignaturas matriculadas|
+|2. Asignaturas matriculadas|
 |---|
 
 - [x] Bases de Datos
@@ -57,7 +58,7 @@
 <br/>
 <a name="item3"></a>
 
-| Stack tecnológico del curso|
+|3. Stack tecnológico del curso|
 |---|
 
 - Frameworks  
@@ -86,7 +87,7 @@
 
 <a name="item4"></a>
 
-| Stack tecnológico conocido|
+|4. Stack tecnológico conocido|
 |---|
 
 `GW-Basic` `C++` `Python` `PHP` `JavaScript` `HTML` `CSS` `XML Blogger`  
@@ -96,7 +97,7 @@
 <br/>
 <a name="item5"></a>
 
-| Preferencias tecnológicas|
+|5. Preferencias tecnológicas|
 |---|
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░ **Frontend**  
