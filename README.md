@@ -131,6 +131,11 @@
 |20Blogs|2009 🥇Primer premio Categoría Tecnología|
 
 <a name="item7"></a>
+<div align="right">
+
+  [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio)
+
+</div>
 
 ## Manolo Sánchez (Oloman) 
   
