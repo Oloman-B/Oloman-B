@@ -1,4 +1,31 @@
 [![Bienvenid@ a mi espacio](https://github.com/user-attachments/assets/860669c2-47f5-422f-805a-204c66ccf359)](https://github.com/Oloman-B "Bienvenid@ a mi espacio")
+
+
+
+
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+    .container {
+     font-family:	system-ui,-apple-system,'Segoe UI',Roboto,	Helvetica,Arial,	sans-serif,'Apple Color Emoji','Segoe UI Emoji';display: flex;flex-direction: column;align-items: center;justify-content: center;margin: 0;width: 100%;height: 400px;background-color: rgb(25,25,25);background-size: 600% 400%;border-radius: 10px;color: rgba(255,255,255,.75);text-align: center;}
+    .type-writer{display: inline-block;}
+    .line-1{width: 100%;margin: 0 auto;border-right: 2px solid rgba(255,255,255,.75);font-size: 180%;text-align: center;white-space: nowrap;overflow: hidden;transform: translateY(-50%);}
+    /* Animation */
+    .anim-typewriter{animation: typewriter 4s steps(44) 1s 1 normal both,blinkTextCursor 500ms steps(44) infinite normal;}
+    @keyframes typewriter{from{width: 0;}to{width: 100%;}}
+    @keyframes blinkTextCursor{from{border-right-color: rgba(255,255,255,.75);}to{border-right-color: transparent;}}
+			</style>
+			<div class="container">
+    <div class="type-writer">
+     <p class="line-1 anim-typewriter">Enseñar es mi pasión, programar mi pasatiempo y ser Experto de Google, un hobby</p>
+    </div>
+   </div>
+  </div>
+	</foreignObject>
+</svg>
+
+
 <div align="center">
 
 > _Enseñar es mi pasión, programar mi pasatiempo y ser Experto de Google, un hobby._
@@ -7,6 +34,15 @@
 [13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
 >>---
 
+
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+	 width="800px" height="800px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+			<ellipse fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4.0012,2.0006" cx="32" cy="32" rx="31" ry="20"/>
+</g>
+</svg>
+
+
 </div>
 <br/>
 <br/>
@@ -14,7 +50,7 @@
 |Nivel y Entidad educativa|
 |---|
 
-### [Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
+### [FPGS: Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
 [![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
 [CIFPD La Conservera](https://sites.google.com/view/fplaconservera/la-conservera "Visitar web") - Ceutí  
 
