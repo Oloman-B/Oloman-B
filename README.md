@@ -1,4 +1,4 @@
-[![Bienvenid@ a mi espacio](https://github.com/user-attachments/assets/4c41f5d3-460f-400d-afb2-6fea3649f5ba)](https://github.com/ManoloSanchezB "Bienvenid@ a mi espacio")
+[![Bienvenid@ a mi espacio](https://github.com/user-attachments/assets/860669c2-47f5-422f-805a-204c66ccf359)](https://github.com/Oloman-B "Bienvenid@ a mi espacio")
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 >> _y ser Experto de Google, uno de mis hobbies._
 >>> ---
 >>>> ---
-[![gmail](https://github.com/user-attachments/assets/13ae610c-065d-44a7-872b-26fc95682c13)](mailto:13810453@alu.murciaeduca.es "Contacta")  
+[![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
 [13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
 
 --- 
@@ -18,7 +18,7 @@
 |---|
 
 ### [Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
-[![Región de Murcia](https://github.com/user-attachments/assets/1879bf23-6501-4a96-81f5-1cf277117b22#left)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
+[![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
 [CIFPD La Conservera](https://sites.google.com/view/fplaconservera/la-conservera "Visitar web") - Ceutí  
 
 <br/>
@@ -98,19 +98,17 @@
 
 ## Manolo Sánchez (Oloman) 
   
-[![linkedin](https://github.com/user-attachments/assets/665d27b3-9669-4d03-b91e-c23e0221d6dd)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
+[![linkedin](https://github.com/user-attachments/assets/2255f0b8-37e4-4b70-a95a-b9d416a32c97)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
 [Más info](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")
 
 </div>
 
 ---
 
-[![Visitar web](https://github.com/user-attachments/assets/b70e8ba7-10bb-43c7-a90b-b73add52d893)](https://sites.google.com/view/fplaconservera "La Conservera Ceutí") 
-
-
+[![Visitar web](https://github.com/user-attachments/assets/a6fd9ae5-b54e-48e8-9620-7fed221cd7dc)](https://sites.google.com/view/fplaconservera "La Conservera Ceutí") 
 
 
 <!--
-**ManoloSanchezB/ManoloSanchezB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Oloman-B/Oloman-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
