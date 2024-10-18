@@ -1,12 +1,15 @@
 [![Bienvenid@ a mi espacio](https://github.com/user-attachments/assets/860669c2-47f5-422f-805a-204c66ccf359)](https://github.com/Oloman-B "Bienvenid@ a mi espacio")
 
-<div align="center">
-	
 ```
-<blockquote> Enseñar es mi pasión, programar mi pasatiempo y ser Experto de Google, un hobby. </blockquote>  	
+<blockquote>
+  Enseñar es mi pasión,
+  programar mi pasatiempo y
+  ser Experto de Google, un hobby.  
+</blockquote>  	
 ```
 
 <br/>
+<div align="center">
 
 [![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
 [13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
@@ -71,12 +74,12 @@
 | Preferencias tecnológicas|
 |---|
 
-**»»»»»»» Frontend**  
-**»** Backend  
-**»»»»»»»»»»» Full-stack**  
-**»»»»»»»»» Diseño UI/UX**  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░ **Frontend**  
+░ Backend  
+▓▓▓▓▓▒░ **Full-stack**  
+▓▓▓▓▓▓▓▓▓▓▒░ **Diseño UI/UX**  
 ~~Análisis de datos~~   
-**»»** Bases de datos  
+▓▒░ Bases de datos  
 
 
 --- 
