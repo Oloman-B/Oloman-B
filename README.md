@@ -3,8 +3,8 @@
 <div align="center">
 
 > ---
->> _Enseñar es mi pasión, programar un juego de lógica_    
->> _y ser Experto de Google, uno de mis hobbies._
+>> _Enseñar es mi pasión, programar mi pasatiempo_    
+>> _y ser Experto de Google, un hobby._
 >>> ---
 >>>> ---
 [![gmail](https://github.com/user-attachments/assets/95c9361d-c732-4148-a21a-6c1ea41d771f)](mailto:13810453@alu.murciaeduca.es "Contacta")  
@@ -14,7 +14,7 @@
 
 </div>
 
-|Nivel y Entidad educativos|
+|Nivel y Entidad educativa|
 |---|
 
 ### [Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
@@ -26,16 +26,14 @@
 |Asignaturas matriculadas|
 |---|
 
-```
-- Bases de Datos
-- Digitalización aplicada al sistema productivo
-- Entornos de Desarrollo
-- Inglés profesional
-- Itinerario personal para la empleabilidad
-- Lenguajes de marcas y sistemas de gestión de información
-- Programación
-- Sistemas informáticos
-```
+- [x] Bases de Datos
+- [x] Digitalización aplicada al sistema productivo
+- [x] Entornos de Desarrollo
+- [x] Inglés profesional
+- [x] Itinerario personal para la empleabilidad
+- [x] Lenguajes de marcas y sistemas de gestión de información
+- [x] Programación
+- [x] Sistemas informáticos
 
 <br/>
 
@@ -72,12 +70,13 @@
 | Preferencias tecnológicas|
 |---|
 
-- [x] Frontend
-- [ ] Backend
-- [x] Diseño UI/UX
-- [x] Full-stack
-- [ ] Bases de datos
-- [ ] Analista de datos
+```
+<ul>
+ <li>»»»» FRONTEND ««««</li>
+ <li>»» DISEÑO UI/UX ««</li>
+ <li>»»» FULL-STACK «««</li>
+</ul>
+```
 
 --- 
 
@@ -101,14 +100,13 @@
 [![linkedin](https://github.com/user-attachments/assets/2255f0b8-37e4-4b70-a95a-b9d416a32c97)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
 [Más info](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")
 
-</div>
 
 ---
 
-[![Visitar web](https://github.com/user-attachments/assets/a6fd9ae5-b54e-48e8-9620-7fed221cd7dc)](https://sites.google.com/view/fplaconservera "La Conservera Ceutí") 
+![Escanéame](https://github.com/user-attachments/assets/088a55d9-5d38-4d20-b5d6-496188c749ab)
 
+</div>
 
-<!--
-**Oloman-B/Oloman-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+[![La Conservera de Ceutí](https://github.com/user-attachments/assets/a6fd9ae5-b54e-48e8-9620-7fed221cd7dc)](https://sites.google.com/view/fplaconservera "Visitar Web") 
+
 
