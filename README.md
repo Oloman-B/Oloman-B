@@ -15,8 +15,20 @@
 [13810453@alu.murciaeduca.es](mailto:13810453@alu.murciaeduca.es "Contacta")
 
 </div>
+
+#### Ve al grano
+* [Nivel y entidad educativa](#item1)
+* [Asignaturas matriculadas](#item2)
+* [Stack tecnológico del curso](#item3)
+* [Stack tecnológico conocido](#item4)
+* [Preferencias tecnológicas](#item4)
+* [Reconocimientos y premios](#item4)
+* [Miselánea](#item4)
+ 
+---
+
 <br/>
-<br/>
+<a name="item1"></a>
 
 |Nivel y Entidad educativa|
 |---|
@@ -26,6 +38,7 @@
 [CIFPD La Conservera](https://sites.google.com/view/fplaconservera/la-conservera "Visitar web") - Ceutí  
 
 <br/>
+<a name="item2"></a>
 
 |Asignaturas matriculadas|
 |---|
@@ -40,6 +53,7 @@
 - [x] Sistemas informáticos
 
 <br/>
+<a name="item3"></a>
 
 | Stack tecnológico del curso|
 |---|
