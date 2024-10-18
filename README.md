@@ -16,14 +16,14 @@
 
 </div>
 
-#### Ve al grano
-* [Nivel y entidad educativa](#item1)
-* [Asignaturas matriculadas](#item2)
-* [Stack tecnológico del curso](#item3)
-* [Stack tecnológico conocido](#item4)
-* [Preferencias tecnológicas](#item4)
-* [Reconocimientos y premios](#item4)
-* [Miselánea](#item4)
+#### Índice de contenidos
+1. [Nivel y entidad educativa](#item1)
+2. [Asignaturas matriculadas](#item2)
+3. [Stack tecnológico del curso](#item3)
+4. [Stack tecnológico conocido](#item4)
+5. [Preferencias tecnológicas](#item5)
+6. [Reconocimientos y premios](#item6)
+7. [Enlaces](#item7)
  
 ---
 
@@ -76,6 +76,8 @@
 
 ---
 
+<a name="item4"></a>
+
 | Stack tecnológico conocido|
 |---|
 
@@ -84,6 +86,7 @@
 `Google Docs` `Spreadsheets` `Office 365`
 
 <br/>
+<a name="item5"></a>
 
 | Preferencias tecnológicas|
 |---|
@@ -98,6 +101,7 @@
 
 --- 
 
+<a name="item6"></a>
 <div align="center">
   
 |🎓🏆🥇🏅 |Reconocimientos y premios|
@@ -112,6 +116,8 @@
 |20Blogs|2009 🥈 Segundo premio Público|
 |20Blogs|2009 🥇 Primer premio Diseño|
 |20Blogs|2009 🥇Primer premio Categoría Tecnología|
+
+<a name="item7"></a>
 
 ## Manolo Sánchez (Oloman) 
   
