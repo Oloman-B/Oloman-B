@@ -22,7 +22,8 @@
 |---|
 
 - [Enlaces](#item7 "Miscelánea")
- 
+
+![](https://komarev.com/ghpvc/?username=Oloman-B&color=blue&style=flat)
 ---
 
 <br/>
