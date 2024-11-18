@@ -54,20 +54,12 @@
 |---|
 
 - Frameworks  
-`React` `Angular` `Vue.js` `Node.js` `Django` `Ruby on Rails` `Spring Boot` `Next.js`  
-`Nuxt.js` `.NET Core` `Laravel` `ASP.NET Core` `Flask` `Express.js` `Flutter`  
 - Lenguajes  
-`Python` `Java` `JavaScript` `R` `C#` `Kotlin` `Go`  
-`Ruby` `Objective-C` `Swift` `Dart` `SQL` `PHP`
 - IDEs  
-`IntellJ IDEA` `Eclipse` `Visual Studio`
 - Control de versiones  
-`GitHub` `GitLab` `Bitbucket` `SVN`  
 - Plataformas CI/CD  
-`Jenkins` `GitLab CI/CD` `GitHub Actions`
 - Bases de datos  
-`MySQL` `PostgreSQL` `Firebase` `Cassandra` `ERD`  
-`pgModeler` `MongoDB` `dbdiagram.io` 
+
 <div align="right">
 
   [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
@@ -81,9 +73,9 @@
 |4. Stack tecnológico conocido|
 |---|
 
+De momento poco y casi obsoleto
 `GW-Basic` `C++` `Python` `PHP` `JavaScript` `HTML` `CSS` `XML Blogger`  
-`Notepad++` `VSCode` `Github` `Codepen` `Drive` `Dropbox`  
-`Google Docs` `Spreadsheets` `Office 365`
+`Notepad++` `VSCode` `Github` `Codepen`
 
 <br/>
 <a name="item5"></a>
@@ -91,13 +83,14 @@
 |5. Preferencias tecnológicas|
 |---|
 
+Sigue los indicadores
 <font color="blue">
 
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░ **Frontend**  
 ░ Backend  
 ▓▓▓▓▓▒░ **Full-stack**  
 ▓▓▓▓▓▓▓▓▓▓▒░ **Diseño UI/UX**  
-~~Análisis de datos~~   
+Análisis de datos  
 ▓▒░ Bases de datos  
 
 </font>
