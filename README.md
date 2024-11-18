@@ -60,11 +60,7 @@
 - Plataformas CI/CD  
 - Bases de datos  
 
-<div align="right">
-
   [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
-
-</div>
 
 ---
 
@@ -94,11 +90,8 @@ Análisis de datos
 ▓▒░ Bases de datos  
 
 </font>
-<div align="right">
   
    [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
-
-</div>
 
 --- 
 
@@ -119,11 +112,8 @@ Análisis de datos
 |20Blogs|2009 🥇Primer premio Categoría Tecnología|
 
 <a name="item7"></a>
-<div align="right">
 
   [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
-
-</div>
 
 ## Manolo Sánchez (Oloman) 
 
@@ -136,11 +126,8 @@ Análisis de datos
 ![Escanéame](https://github.com/user-attachments/assets/088a55d9-5d38-4d20-b5d6-496188c749ab "Escanéame")
 
 </div>
-<div align="right">
 
   [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
-
-</div>
 
 --- 
 
