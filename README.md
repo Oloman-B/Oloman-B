@@ -60,8 +60,9 @@
 - Plataformas CI/CD  
 - Bases de datos  
 
-  [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+<br/>
 
+[![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
 ---
 
 <a name="item4"></a>
@@ -69,10 +70,24 @@
 |4. Stack tecnológico conocido|
 |---|
 
-De momento poco y casi obsoleto
-`GW-Basic` `C++` `Python` `PHP` `JavaScript` `HTML` `CSS` `XML Blogger`  
-`Notepad++` `VSCode` `Github` `Codepen`
+<br>
+<div align="center">
 
+![c](https://github.com/user-attachments/assets/836b3cab-50e3-4660-b59c-c66891ae5ca9)
+![php](https://github.com/user-attachments/assets/efefc287-bfb8-4a82-88cb-3a964022c7d5)
+![Python-logo-notext svg](https://github.com/user-attachments/assets/44a93be0-0440-418e-a1c1-0a0b74aab545)
+![gwbasic](https://github.com/user-attachments/assets/49c2f36e-080d-4ce9-a48c-1ccfd7fabf79)
+![js](https://github.com/user-attachments/assets/285127ac-6a3d-4acb-af6e-ef2e0eb4add8)
+![HTML5_logo_and_wordmark svg](https://github.com/user-attachments/assets/8295543c-04d4-4977-8504-a78982224a97)
+<br/>
+![CSS3_logo_and_wordmark svg](https://github.com/user-attachments/assets/1d611a99-3492-4cee-8b2c-85b9d521c5ca)
+![Blogger_icon svg](https://github.com/user-attachments/assets/43559abc-7b23-4345-8f50-f334672b448f)
+![github-icon-2048x2048-823jqxdr](https://github.com/user-attachments/assets/3038df39-62a9-45f5-b27b-9c1abe392994)
+![codepen-square-icon-256x256-bh3834az](https://github.com/user-attachments/assets/c67c8d27-15c4-48f1-aeb7-2e6c3d557820)
+![Visual_Studio_Code_1 35_icon svg](https://github.com/user-attachments/assets/fc3ba650-6c4f-4b18-851e-8ea1f7275fc7)
+![notepad](https://github.com/user-attachments/assets/228b1e6b-3ba1-42bf-9151-7b5dd68fd6f9)
+
+</div>
 <br/>
 <a name="item5"></a>
 
@@ -80,20 +95,22 @@ De momento poco y casi obsoleto
 |---|
 
 Sigue los indicadores
-<font color="blue">
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░ **Frontend**  
-░ Backend  
-▓▓▓▓▓▒░ **Full-stack**  
-▓▓▓▓▓▓▓▓▓▓▒░ **Diseño UI/UX**  
-Análisis de datos  
-▓▒░ Bases de datos  
+<span style="color:blue;">
 
-</font>
-  
-   [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░ **Frontend**  
+▓▓▓▓▓▒▒▒▒░░░ Backend  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Full-stack**  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Diseño UI/UX**  
+▓▓▒░Análisis de datos  
+▓▓▓▒▒░░ Bases de datos  
 
---- 
+</span>
+
+<br/>
+
+[![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+---
 
 <a name="item6"></a>
 <div align="center">
@@ -112,9 +129,14 @@ Análisis de datos
 |20Blogs|2009 🥇Primer premio Categoría Tecnología|
 
 <a name="item7"></a>
+<br/>
+</div>
 
-  [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+[![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+---
 
+<div align="center">
+  
 ## Manolo Sánchez (Oloman) 
 
 [![linkedin](https://github.com/user-attachments/assets/2255f0b8-37e4-4b70-a95a-b9d416a32c97)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
@@ -126,10 +148,10 @@ Análisis de datos
 ![Escanéame](https://github.com/user-attachments/assets/088a55d9-5d38-4d20-b5d6-496188c749ab "Escanéame")
 
 </div>
+<br/>
 
-  [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
-
---- 
+[![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+---
 
 [![La Conservera de Ceutí](https://github.com/user-attachments/assets/a6fd9ae5-b54e-48e8-9620-7fed221cd7dc)](https://sites.google.com/view/fplaconservera "Visitar Web") 
 
