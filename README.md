@@ -17,7 +17,10 @@
 3. [Stack tecnológico del curso](#item3 "Los palabros que vamos a ver")
 4. [Stack tecnológico conocido](#item4 "Algunas cosas que ya me suenan")
 5. [Preferencias tecnológicas](#item5 "Lo que me gustaría")
-- [Reconocimientos y premios](#item6 "Distintiones que molan")
+   
+|🎓🏆🥇🏅 [Reconocimientos y premios](#item6 "Distintiones que molan")|
+|---|
+
 - [Enlaces](#item7 "Miscelánea")
  
 ---
@@ -93,10 +96,10 @@ Sigue los indicadores
 
 <span style="color:blue;">
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░ **Frontend**  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░ **Frontend**  
 ▓▓▓▓▓▒▒▒▒░░░ Backend  
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Full-stack**  
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Diseño UI/UX**  
+▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Full-stack**  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Diseño UI/UX**  
 ▓▓▒░Análisis de datos  
 ▓▓▓▒▒░░ Bases de datos  
 
