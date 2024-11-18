@@ -18,12 +18,17 @@
 4. [Stack tecnológico conocido](#item4 "Algunas cosas que ya me suenan")
 5. [Preferencias tecnológicas](#item5 "Lo que me gustaría")
    
-|🎓🏆🥇🏅 [Reconocimientos y premios](#item6 "Distintiones que molan")|
+|[Reconocimientos y premios](#item6 "Distintiones que molan")🎓🏆🥇🏅 |
 |---|
 
 - [Enlaces](#item7 "Miscelánea")
 
-![](https://komarev.com/ghpvc/?username=Oloman-B&color=blue&style=flat)
+<div align="right">
+  
+  ![](https://komarev.com/ghpvc/?username=Oloman-B&color=blue&style=flat)
+  
+</div>
+
 ---
 
 <br/>
