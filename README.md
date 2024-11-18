@@ -91,6 +91,8 @@
 |5. Preferencias tecnológicas|
 |---|
 
+<span style="color:blue";>
+
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░ **Frontend**  
 ░ Backend  
 ▓▓▓▓▓▒░ **Full-stack**  
@@ -98,6 +100,7 @@
 ~~Análisis de datos~~   
 ▓▒░ Bases de datos  
 
+</span>
 <div align="right">
   
    [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
