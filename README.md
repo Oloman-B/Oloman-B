@@ -15,9 +15,6 @@
   
 </div>
 
----
-
-
 <div align="center">
   
 |🎓🏆🥇🏅 |Reconocimientos y premios|
@@ -35,7 +32,9 @@
 
 </div>
 
-|¿Vamos al grano?|
+---
+
+|Derecho al grano?|
 |---|
 
 ⭕ [Stack tecnológico](#item1 "Algunas cosas que ya me suenan")  
@@ -47,6 +46,8 @@
 
 <br/>
 <a name="item1"></a>
+
+
 |⭕ Stack tecnológico|
 |---|
 
@@ -73,8 +74,10 @@
 <a name="item2"></a>
 
 <div align="center">
+  
 |⭕ Preferencias tecnológicas|
 |---|
+
 </div>
 
 Sigue los indicadores
