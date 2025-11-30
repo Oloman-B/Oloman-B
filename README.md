@@ -54,9 +54,9 @@
 <br>
 <div align="center">
 
-![Java](https://github.com/user-attachments/assets/056526aa-7555-41ed-a698-9d0dc7d39291)
-![Kotlin](https://github.com/user-attachments/assets/25854ef7-9bbf-4326-9c80-aff60b70be6f)
-![Unity](https://github.com/user-attachments/assets/779f80c6-8403-49bc-8c1a-ad9dceeea4ef)
+![Java](https://github.com/user-attachments/assets/2106917b-51b4-4193-8f01-08dc0344061a)
+![Kotlin](https://github.com/user-attachments/assets/57dcc83d-02fc-4bae-802d-ab3992f237fc)
+![Unity](https://github.com/user-attachments/assets/90f600d4-e3dd-4a5f-a6aa-283e3425b3a1)
 ![c](https://github.com/user-attachments/assets/836b3cab-50e3-4660-b59c-c66891ae5ca9)
 ![PHP](https://github.com/user-attachments/assets/efefc287-bfb8-4a82-88cb-3a964022c7d5)
 ![Python](https://github.com/user-attachments/assets/44a93be0-0440-418e-a1c1-0a0b74aab545)
@@ -66,10 +66,11 @@
 ![HTML5](https://github.com/user-attachments/assets/8295543c-04d4-4977-8504-a78982224a97)
 ![CSS3](https://github.com/user-attachments/assets/1d611a99-3492-4cee-8b2c-85b9d521c5ca)
 ![Blogger](https://github.com/user-attachments/assets/43559abc-7b23-4345-8f50-f334672b448f)
-![GitHub](https://github.com/user-attachments/assets/3038df39-62a9-45f5-b27b-9c1abe392994)
-![Codepen](https://github.com/user-attachments/assets/c67c8d27-15c4-48f1-aeb7-2e6c3d557820)
+![IntelliJ](https://github.com/user-attachments/assets/727b753a-3bac-4b95-867c-a06c84b66399)
 ![Visual Studio Code](https://github.com/user-attachments/assets/fc3ba650-6c4f-4b18-851e-8ea1f7275fc7)
 ![Notepad](https://github.com/user-attachments/assets/228b1e6b-3ba1-42bf-9151-7b5dd68fd6f9)
+![GitHub](https://github.com/user-attachments/assets/3038df39-62a9-45f5-b27b-9c1abe392994)
+![Codepen](https://github.com/user-attachments/assets/c67c8d27-15c4-48f1-aeb7-2e6c3d557820)
 
 </div>
 
