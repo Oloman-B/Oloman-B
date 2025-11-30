@@ -62,7 +62,6 @@
 ![Python](https://github.com/user-attachments/assets/44a93be0-0440-418e-a1c1-0a0b74aab545)
 ![GWbasic](https://github.com/user-attachments/assets/49c2f36e-080d-4ce9-a48c-1ccfd7fabf79)
 ![JS](https://github.com/user-attachments/assets/285127ac-6a3d-4acb-af6e-ef2e0eb4add8)
-<br/>
 ![HTML5](https://github.com/user-attachments/assets/8295543c-04d4-4977-8504-a78982224a97)
 ![CSS3](https://github.com/user-attachments/assets/1d611a99-3492-4cee-8b2c-85b9d521c5ca)
 ![Blogger](https://github.com/user-attachments/assets/43559abc-7b23-4345-8f50-f334672b448f)
