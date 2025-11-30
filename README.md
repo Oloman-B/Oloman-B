@@ -12,11 +12,11 @@
 
 |¿Vamos al grano?|
 |---|
-1. [Nivel y entidad educativa](#item1 "Qué y dónde estudio")
-2. [Asignaturas matriculadas](#item2 "Lo que me he propuesto aprender este año")
-3. [Stack tecnológico del curso](#item3 "Los palabros que vamos a ver")
-4. [Stack tecnológico conocido](#item4 "Algunas cosas que ya me suenan")
-5. [Preferencias tecnológicas](#item5 "Lo que me gustaría")
+
+⭕ [Stack tecnológico del curso](#item3 "Los palabros que vamos a ver")
+⭕ [Stack tecnológico conocido](#item4 "Algunas cosas que ya me suenan")
+⭕ [Preferencias tecnológicas](#item5 "Lo que me gustaría")
+⭕ [Nivel y entidad educativa](#item1 "Qué y dónde estudio")
    
 |[Reconocimientos y premios](#item6 "Distintiones que molan")🎓🏆🥇🏅 |
 |---|
@@ -45,34 +45,18 @@
 <br/>
 <a name="item2"></a>
 
-|2. Asignaturas matriculadas|
+|⭕ Conocimientos generales|
 |---|
 
 - [x] Bases de Datos
-- [x] Digitalización aplicada al sistema productivo
 - [x] Entornos de Desarrollo
-- [x] Inglés profesional
-- [x] Itinerario personal para la empleabilidad
-- [x] Lenguajes de marcas y sistemas de gestión de información
+- [x] Lenguajes de marcas
 - [x] Programación
-- [x] Sistemas informáticos
-
+      
 <br/>
 <a name="item3"></a>
 
-|3. Stack tecnológico del curso|
-|---|
-
-``Frameworks`` ``Lenguajes`` ``IDEs`` ``Bases de datos`` ``Control de versiones`` ``Plataformas CI/CD``  
-
-<br/>
-
-[![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
----
-
-<a name="item4"></a>
-
-|4. Stack tecnológico conocido|
+|⭕ Stack tecnológico|
 |---|
 
 <br>
@@ -96,7 +80,7 @@
 <br/>
 <a name="item5"></a>
 
-|5. Preferencias tecnológicas|
+|⭕ Preferencias tecnológicas|
 |---|
 
 Sigue los indicadores
