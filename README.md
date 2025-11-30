@@ -47,7 +47,7 @@
 <br/>
 <a name="item1"></a>
 
-
+  
 |⭕ Stack tecnológico|
 |---|
 
@@ -73,23 +73,20 @@
 <br/>
 <a name="item2"></a>
 
-<div align="center">
   
 |⭕ Preferencias tecnológicas|
 |---|
-
-</div>
 
 Sigue los indicadores
 
 <span style="color:blue;">
 
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░ **Frontend**  
-▓▓▓▓▓▒▒▒▒░░░ Backend  
-▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Full-stack**  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒░░░░░ **Frontend**  
+▓▓▓▓▓▓▓▓▓▓▒▒▒▒░░░ Backend  
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Full-stack**  
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒░░░░ **Diseño UI/UX**  
-▓▓▒░Análisis de datos  
-▓▓▓▒▒░░ Bases de datos  
+▓▓▓▓▒░Análisis de datos  
+▓▓▓▓▓▓▒▒░░ Bases de datos  
 
 </span>
 
@@ -113,16 +110,19 @@ Sigue los indicadores
 |---|
 
 ### [FPGS: Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
-[![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
 [CIFPD La Conservera](https://sites.google.com/view/fplaconservera/la-conservera "Visitar web") - Ceutí  
 [CIFPD Carlos III](https://cifpcarlos3.es/es "Visitar web") - Cartagena  
 
+[![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
 
 <a name="item5"></a>
 <br/>
 </div>
 
+<div align="center">
 [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+</div>
+
 ---
 
 <div align="center">
