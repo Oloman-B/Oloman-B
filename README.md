@@ -54,19 +54,22 @@
 <br>
 <div align="center">
 
+![Java](https://github.com/user-attachments/assets/056526aa-7555-41ed-a698-9d0dc7d39291)
+![Kotlin](https://github.com/user-attachments/assets/25854ef7-9bbf-4326-9c80-aff60b70be6f)
+![Unity](https://github.com/user-attachments/assets/779f80c6-8403-49bc-8c1a-ad9dceeea4ef)
 ![c](https://github.com/user-attachments/assets/836b3cab-50e3-4660-b59c-c66891ae5ca9)
-![php](https://github.com/user-attachments/assets/efefc287-bfb8-4a82-88cb-3a964022c7d5)
-![Python-logo-notext svg](https://github.com/user-attachments/assets/44a93be0-0440-418e-a1c1-0a0b74aab545)
-![gwbasic](https://github.com/user-attachments/assets/49c2f36e-080d-4ce9-a48c-1ccfd7fabf79)
-![js](https://github.com/user-attachments/assets/285127ac-6a3d-4acb-af6e-ef2e0eb4add8)
-![HTML5_logo_and_wordmark svg](https://github.com/user-attachments/assets/8295543c-04d4-4977-8504-a78982224a97)
-![CSS3_logo_and_wordmark svg](https://github.com/user-attachments/assets/1d611a99-3492-4cee-8b2c-85b9d521c5ca)
+![PHP](https://github.com/user-attachments/assets/efefc287-bfb8-4a82-88cb-3a964022c7d5)
+![Python](https://github.com/user-attachments/assets/44a93be0-0440-418e-a1c1-0a0b74aab545)
+![GWbasic](https://github.com/user-attachments/assets/49c2f36e-080d-4ce9-a48c-1ccfd7fabf79)
+![JS](https://github.com/user-attachments/assets/285127ac-6a3d-4acb-af6e-ef2e0eb4add8)
 <br/>
-![Blogger_icon svg](https://github.com/user-attachments/assets/43559abc-7b23-4345-8f50-f334672b448f)
-![github-icon-2048x2048-823jqxdr](https://github.com/user-attachments/assets/3038df39-62a9-45f5-b27b-9c1abe392994)
-![codepen-square-icon-256x256-bh3834az](https://github.com/user-attachments/assets/c67c8d27-15c4-48f1-aeb7-2e6c3d557820)
-![Visual_Studio_Code_1 35_icon svg](https://github.com/user-attachments/assets/fc3ba650-6c4f-4b18-851e-8ea1f7275fc7)
-![notepad](https://github.com/user-attachments/assets/228b1e6b-3ba1-42bf-9151-7b5dd68fd6f9)
+![HTML5](https://github.com/user-attachments/assets/8295543c-04d4-4977-8504-a78982224a97)
+![CSS3](https://github.com/user-attachments/assets/1d611a99-3492-4cee-8b2c-85b9d521c5ca)
+![Blogger](https://github.com/user-attachments/assets/43559abc-7b23-4345-8f50-f334672b448f)
+![GitHub](https://github.com/user-attachments/assets/3038df39-62a9-45f5-b27b-9c1abe392994)
+![Codepen](https://github.com/user-attachments/assets/c67c8d27-15c4-48f1-aeb7-2e6c3d557820)
+![Visual Studio Code](https://github.com/user-attachments/assets/fc3ba650-6c4f-4b18-851e-8ea1f7275fc7)
+![Notepad](https://github.com/user-attachments/assets/228b1e6b-3ba1-42bf-9151-7b5dd68fd6f9)
 
 </div>
 
