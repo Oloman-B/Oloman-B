@@ -40,6 +40,7 @@
 ### [FPGS: Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
 [![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
 [CIFPD La Conservera](https://sites.google.com/view/fplaconservera/la-conservera "Visitar web") - Ceutí  
+[CIFPD Carlos III](https://cifpcarlos3.es/es "Visitar web") - Cartagena  
 
 <br/>
 <a name="item2"></a>
@@ -156,7 +157,5 @@ Sigue los indicadores
 
 [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
 ---
-
-[![La Conservera de Ceutí](https://github.com/user-attachments/assets/a6fd9ae5-b54e-48e8-9620-7fed221cd7dc)](https://sites.google.com/view/fplaconservera "Visitar Web") 
 
 
