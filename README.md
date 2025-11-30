@@ -130,6 +130,7 @@ Sigue los indicadores
 <div align="center">
   
 ## Manolo Sánchez (Oloman) 
+---
 
 [![linkedin](https://github.com/user-attachments/assets/2255f0b8-37e4-4b70-a95a-b9d416a32c97)](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")   
 [Más info](https://www.linkedin.com/in/oloman/ "Perfil Linkedin")
@@ -142,7 +143,10 @@ Sigue los indicadores
 </div>
 <br/>
 
+<div align="center">
+  
 [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
----
+
+</div>
 
 
