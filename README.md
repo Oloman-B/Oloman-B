@@ -9,20 +9,6 @@
   ser Experto de Google, un hobby.  
 </blockquote>  	
 ```
-
-|¿Vamos al grano?|
-|---|
-
-⭕ [Stack tecnológico del curso](#item3 "Los palabros que vamos a ver")
-⭕ [Stack tecnológico conocido](#item4 "Algunas cosas que ya me suenan")
-⭕ [Preferencias tecnológicas](#item5 "Lo que me gustaría")
-⭕ [Nivel y entidad educativa](#item1 "Qué y dónde estudio")
-   
-|[Reconocimientos y premios](#item6 "Distintiones que molan")🎓🏆🥇🏅 |
-|---|
-
-- [Enlaces](#item7 "Miscelánea")
-
 <div align="right">
   
   ![](https://komarev.com/ghpvc/?username=Oloman-B&color=blue&style=flat)
@@ -31,31 +17,36 @@
 
 ---
 
+
+<div align="center">
+  
+|🎓🏆🥇🏅 |Reconocimientos y premios|
+|:---|:---|
+|Google|2024 🎓 Experto de Producto Diamante _Blogger_|
+|Google|2024 🏆 Troubleshooter Award (EMEA Zurich Summit)|
+|Google|2022 🎓 Experto Producto Diamante _Play_|
+|Google|2022 🎓 Experto Producto Diamante _Pay_ y _Wallet_|
+|20Blogs|2015 🥇 Primer premio Categoría Música|
+|La Verdad|2013 🏅 Finalista Premios Web|
+|20Blogs|2009 🥇 Primer premio Jurado|
+|20Blogs|2009 🥈 Segundo premio Público|
+|20Blogs|2009 🥇 Primer premio Diseño|
+|20Blogs|2009 🥇Primer premio Categoría Tecnología|
+
+</div>
+
+|¿Vamos al grano?|
+|---|
+
+⭕ [Stack tecnológico](#item1 "Algunas cosas que ya me suenan")  
+⭕ [Preferencias](#item2 "Lo que me gustaría")  
+⭕ [Conocimientos generales](#item3 "Lo que sé")  
+⭕ [Nivel y entidad educativa](#item4 "Qué y dónde estudié")  
+⭕ [Linkedin y otros](#item5 "Referencias")  
+   
+
 <br/>
 <a name="item1"></a>
-
-|1. Nivel y Entidad educativa|
-|---|
-
-### [FPGS: Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
-[![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
-[CIFPD La Conservera](https://sites.google.com/view/fplaconservera/la-conservera "Visitar web") - Ceutí  
-[CIFPD Carlos III](https://cifpcarlos3.es/es "Visitar web") - Cartagena  
-
-<br/>
-<a name="item2"></a>
-
-|⭕ Conocimientos generales|
-|---|
-
-- [x] Bases de Datos
-- [x] Entornos de Desarrollo
-- [x] Lenguajes de marcas
-- [x] Programación
-      
-<br/>
-<a name="item3"></a>
-
 |⭕ Stack tecnológico|
 |---|
 
@@ -77,11 +68,14 @@
 ![notepad](https://github.com/user-attachments/assets/228b1e6b-3ba1-42bf-9151-7b5dd68fd6f9)
 
 </div>
-<br/>
-<a name="item5"></a>
 
+<br/>
+<a name="item2"></a>
+
+<div align="center">
 |⭕ Preferencias tecnológicas|
 |---|
+</div>
 
 Sigue los indicadores
 
@@ -96,28 +90,32 @@ Sigue los indicadores
 
 </span>
 
+
+
 <br/>
+<a name="item3"></a>
 
-[![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
----
+|⭕ Conocimientos generales|
+|---|
 
-<a name="item6"></a>
-<div align="center">
-  
-|🎓🏆🥇🏅 |Reconocimientos y premios|
-|:---|:---|
-|Google|2024 🎓 Experto de Producto Diamante _Blogger_|
-|Google|2024 🏆 Troubleshooter Award (EMEA Zurich Summit)|
-|Google|2022 🎓 Experto Producto Diamante _Play_|
-|Google|2022 🎓 Experto Producto Diamante _Pay_ y _Wallet_|
-|20Blogs|2015 🥇 Primer premio Categoría Música|
-|La Verdad|2013 🏅 Finalista Premios Web|
-|20Blogs|2009 🥇 Primer premio Jurado|
-|20Blogs|2009 🥈 Segundo premio Público|
-|20Blogs|2009 🥇 Primer premio Diseño|
-|20Blogs|2009 🥇Primer premio Categoría Tecnología|
+- [x] Lenguajes de marcas
+- [x] Programación
+- [x] Bases de Datos
+      
 
-<a name="item7"></a>
+<br/>
+<a name="item4"></a>
+
+|⭕ Nivel y Entidad educativa|
+|---|
+
+### [FPGS: Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
+[![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
+[CIFPD La Conservera](https://sites.google.com/view/fplaconservera/la-conservera "Visitar web") - Ceutí  
+[CIFPD Carlos III](https://cifpcarlos3.es/es "Visitar web") - Cartagena  
+
+
+<a name="item5"></a>
 <br/>
 </div>
 
