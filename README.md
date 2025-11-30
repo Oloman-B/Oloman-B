@@ -120,7 +120,9 @@ Sigue los indicadores
 </div>
 
 <div align="center">
+  
 [![Subir](https://github.com/user-attachments/assets/61f446bb-42ff-4e95-94c7-125624c62e03)](#inicio "Subir")
+
 </div>
 
 ---
