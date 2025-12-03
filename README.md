@@ -116,7 +116,10 @@ Sigue los indicadores
 [CIFPD La Conservera](https://sites.google.com/view/fplaconservera/la-conservera "Visitar web") - Ceutí  
 [CIFPD Carlos III](https://cifpcarlos3.es/es "Visitar web") - Cartagena  
 
-[![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)](https://www.todofp.es/dam/jcr:0582c0c4-f15d-4e65-ac37-7d77591ee921/murdesarrollo-aplicacioens-multiplataforma-pdf.pdf "Currículo R.Murcia") 
+### [FPGS: Técnico Superior en Administración de Sistemas Informáticos](https://www.todofp.es/que-estudiar/logse/informatica/admin-sistemas-informaticos.html "Más info sobre el grado").
+[IES El Bohío](https://www.iesbohio.es/web/ "Visitar web") - Cartagena  
+
+![Región de Murcia](https://github.com/user-attachments/assets/e7bd4935-fdce-454a-8005-4a5da633adad)
 
 <a name="item5"></a>
 <br/>
