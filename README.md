@@ -40,7 +40,7 @@
 ⭕ [Stack tecnológico](#item1 "Algunas cosas que ya me suenan")  
 ⭕ [Preferencias](#item2 "Lo que me gustaría")  
 ⭕ [Conocimientos generales](#item3 "Lo que sé")  
-⭕ [Nivel y entidad educativa](#item4 "Qué y dónde estudié")  
+⭕ [Titulaciones](#item4 "Qué y dónde estudié")  
 ⭕ [Linkedin y otros](#item5 "Referencias")  
    
 
@@ -109,7 +109,7 @@ Sigue los indicadores
 <br/>
 <a name="item4"></a>
 
-|⭕ Nivel y Entidad educativa|
+|⭕ Titulaciones|
 |---|
 
 ### [FPGS: Técnico superior en Desarrollo de Aplicaciones Multiplataforma](https://llegarasalto.com/guiafp/ciclos/IFC-322.html "Más info sobre el grado").
