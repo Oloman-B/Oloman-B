@@ -34,7 +34,7 @@
 
 ---
 
-|¿Al grano?|
+|Índice|
 |---|
 
 ⭕ [Stack tecnológico](#item1 "Algunas cosas que ya me suenan")  
